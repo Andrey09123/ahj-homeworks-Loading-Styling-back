@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npx nodemon",
     "prestart": "npm install",
-    "start": "npx nodemon server.js"
+    "functions": "npm nodemon server.js"
   },
   "keywords": [
     "webworker",
